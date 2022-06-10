@@ -1,0 +1,2 @@
+# Detecta-o-de-m-os-com-o-Python
+Esutdando sobre a linguagem de programação Python para detecção de mãos,  com o auxilio  da biblioteca multiforme OPENCV . Sabe com o avanço das tecnologias e importante fazer o uso de aplicações que possam melhorar  a capacidade de alcançar certos resultados e o Python  é uma excelente linguagem de programação para ser usadas neste tipo de caso aonde precisei colocar em pratica alguns conhecimentos de inteligencia artificial e machine Learning.
